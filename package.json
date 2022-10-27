@@ -2,8 +2,7 @@
   "name": "fxgcomponents_galaf003",
   "version": "1.0.7",
   "description": "Component REACT",
-  "main": "dist/index.js",
-  "module": "dist/index.es.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "storybook": "start-storybook -p 6006",
