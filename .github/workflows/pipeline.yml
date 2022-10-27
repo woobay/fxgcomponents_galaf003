@@ -30,8 +30,8 @@ jobs:
         with:
           token: ${{ secrets.NPM_TOKEN }}
           exclude: |
-          **/.storybook/**
-          **/node_modules/**
+            **/.storybook/**
+            **/node_modules/**
             
   web-deploy:
     name: 🎉 Deploy
