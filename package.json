@@ -1,7 +1,7 @@
 {
   "name": "fxgcomponents_galaf003",
-  "version": "1.0.3",
-  "description": "Component",
+  "version": "1.0.4",
+  "description": "Component REACT",
   "main": "dist/index.js",
   "module": "dist/index.es.js",
   "scripts": {
