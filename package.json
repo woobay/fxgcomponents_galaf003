@@ -1,6 +1,6 @@
 {
   "name": "fxgcomponents_galaf003",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Component REACT",
   "main": "dist/index.js",
   "module": "dist/index.es.js",
@@ -43,12 +43,11 @@
     "antd": "^4.18.2",
     "bootstrap": "^5.2.2",
     "react-bootstrap": "^2.5.0"
-  }, 
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/woobay/fxgcomponents_galaf003.git"
   },
-  
   "bugs": {
     "url": "https://github.com/woobay/fxgcomponents_galaf003/issues"
   },
