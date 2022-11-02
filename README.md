@@ -11,7 +11,7 @@ Vous trouverez dans ce dossier une StoryBook de 10 Components React modifiable i
 
 ## 🎌 Pour Démarrer la StoryBook
 ```
-yarn storybook
+yarn storybook 
 ```
 
 --------
