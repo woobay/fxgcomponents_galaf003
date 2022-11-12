@@ -27,3 +27,9 @@ Link.args = {
   text: "Button",
   type: "link"
 };
+
+export const Patate = Template.bind({});
+Patate.args = {
+  text: "Patate",
+  type: 'primary'
+};
